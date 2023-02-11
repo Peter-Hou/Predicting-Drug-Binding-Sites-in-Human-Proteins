@@ -16,6 +16,7 @@ Try different feature combinations and compare the performance of each combinati
 
 Day 6-7 (Feb 16-17): Model selection and training
 
+Check similar projects and research paper on model selection
 Train multiple models (such as decision trees, random forests, support vector machines, etc.) using the training data.
 Evaluate each model on the validation data and compare their performance.
 Select the best-performing model and fine-tune its hyperparameters.
